@@ -1,5 +1,5 @@
 titte: Shaw Talebi
-logo: /assets/img/headshot_circte.png
+#logo: /assets/img/headshot_circte.png
 #description: text below image_J
-show_downtoads: false
-theme: jekytl—theme-minimat
+#show_downtoads: true
+theme: jekyll—theme-minimal
